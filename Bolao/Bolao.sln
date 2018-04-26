@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bolao.Infraestrutura.Entity
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bolao.Api", "Bolao.Api\Bolao.Api.csproj", "{B7493120-AD67-4E11-860F-4D4BDAA640FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bolao.WebApplication", "Bolao.WebApplication\Bolao.WebApplication.csproj", "{473EB6D7-C4A1-4329-B44E-C852227430B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,10 @@ Global
 		{B7493120-AD67-4E11-860F-4D4BDAA640FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7493120-AD67-4E11-860F-4D4BDAA640FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7493120-AD67-4E11-860F-4D4BDAA640FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{473EB6D7-C4A1-4329-B44E-C852227430B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473EB6D7-C4A1-4329-B44E-C852227430B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473EB6D7-C4A1-4329-B44E-C852227430B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473EB6D7-C4A1-4329-B44E-C852227430B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -62,6 +68,7 @@ Global
 		{13C1BFAC-3CFE-4430-B105-7225507B5325} = {BE3B4010-EE7B-4BC1-8D10-6F2863759FE9}
 		{D17D586D-99C9-4F78-B0E2-B7DE702DCCE7} = {1D4EFD92-66F6-4BEE-A3B9-B58E81661ACA}
 		{B7493120-AD67-4E11-860F-4D4BDAA640FD} = {AEAC47D6-9E55-4DA8-A9A5-06EBDB98F6B7}
+		{473EB6D7-C4A1-4329-B44E-C852227430B4} = {4D584D2E-5C7A-4593-AD6E-D1692A59520D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CC8EE36A-F2C3-40A4-A8B1-85B7D4D114FE}
