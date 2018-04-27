@@ -7,7 +7,7 @@ namespace Bolao.Domain.Interface.Repository
     public interface IBaseRepository<TEntity> where TEntity: class
     {
         bool Excluir(TEntity entity);
-        
+
         TEntity Salvar(TEntity entity);
 
         TEntity Editar(TEntity entity);
